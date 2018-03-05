@@ -11,7 +11,7 @@ const isIphoneX =
 The usage example is shown below, if you still want to install this package ))
 
 To install run the command in terminal:
-```javascript
+```bash
   yarn add @malik.aliyev.94/react-native-is-iphonex
 
   or
