@@ -35,6 +35,12 @@ const statusBarHeight = isIphoneX ? 44 : 20;
 ```
 
 ## Bonus - iOS design guidelines
+See [React Native Starter](https://github.com/malik-aliyev-94/react-native-starter) project on GitHub.
+
+The Demo is available on [Expo](https://expo.io/@malik-aliyev-94/expo-react-native-starter)
+
+![Expo Demo](https://raw.githubusercontent.com/malik-aliyev-94/react-native-starter/master/assets/expo-qr.png)
+
 Here you can find statusbar, navigation bar height an other dimensions for all iOS devices
 
 https://ivomynttinen.com/blog/ios-design-guidelines
