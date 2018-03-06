@@ -34,7 +34,7 @@ import isIphoneX from '@malik.aliyev.94/react-native-is-iphonex';
 const statusBarHeight = isIphoneX ? 44 : 20;
 ```
 
-## Bonus - iOS design guidelines
+## Bonus
 See [React Native Starter](https://github.com/malik-aliyev-94/react-native-starter) project on GitHub.
 
 The Demo is available on [Expo](https://expo.io/@malik-aliyev-94/expo-react-native-starter)
